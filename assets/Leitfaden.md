@@ -9,7 +9,8 @@ Das Erstellen einer Website kann ist eine spannende Möglichkeit, deine Fähigke
 1. **Thema festlegen:** Entscheide was das Thema deiner Webiste sein soll. Eine Visitenkarte für dich (Portfolio)? Oder eine für deinen lokalen Dönermann? Hast du einen bekannten der eine Website für sein Business gebrauchen könnte? Dann kannst du sie in diesem Workshop umsetzen.
 2. **Zweck festlegen:** Überlege dir, welchen Zweck deine Website erfüllen soll. Was soll sie für den Nutzer leisten – und was willst du mit ihr erreichen? (Informationen über ein Produkt oder eine Dienstleistung bereitstellen, Eine Person oder ein Unternehmen vorstellen (z. B. als digitale Visitenkarte), Eine Bewerbung oder Arbeitsproben präsentieren)
 3. **Zielgruppe Definieren**: Wer soll deine Website später sehen? Recruiter einer Firma? Kunden die schauen wollen, ob das Essen gut ist? Überlege dir auf wen die Website ausgerichtet sein soll und wie man die Gestaltung an die Zielgruppe anpasst um das Ziel der Website zu erreichen.
-3. **Inhalte vorbereiten:** Sammel alle relevanten Inhalte, wie Texte, Bilder, und Projektbeschreibungen. 
+3. **Inhalte vorbereiten:** Sammel alle relevanten Inhalte, wie Texte, Bilder, und Projektbeschreibungen.
+Lizenzfreie Bilder: (https://unsplash.com/de)
 4. **Designidee skizzieren:** Überlege, wie deine Website aussehen soll. Möchtest du ein minimalistisches Design oder ein farbenfrohes Layout?
 
 ### **Schritt 2: Einrichtung der Projektstruktur**
